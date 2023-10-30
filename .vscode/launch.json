@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "logical_operators",
+            "request": "launch",
+            "mainClass": "logical_operators",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
+            "name": "assignment_operators",
+            "request": "launch",
+            "mainClass": "assignment_operators",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
+            "name": "relational_operators",
+            "request": "launch",
+            "mainClass": "relational_operators",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
+            "name": "aritmetic_operators",
+            "request": "launch",
+            "mainClass": "aritmetic_operators",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "input",
             "request": "launch",
             "mainClass": "input",
