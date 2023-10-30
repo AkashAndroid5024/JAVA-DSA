@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "reverseArray",
             "request": "launch",
             "mainClass": "reverseArray",
