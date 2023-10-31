@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "even_or_odd",
+            "request": "launch",
+            "mainClass": "even_or_odd",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "largest_of_two",
             "request": "launch",
             "mainClass": "largest_of_two",
