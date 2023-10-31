@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "largest_of_3",
+            "request": "launch",
+            "mainClass": "largest_of_3",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "income_tax_calc",
             "request": "launch",
             "mainClass": "income_tax_calc",
