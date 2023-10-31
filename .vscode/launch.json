@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ternary_operator",
+            "request": "launch",
+            "mainClass": "ternary_operator",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "largest_of_3",
             "request": "launch",
             "mainClass": "largest_of_3",
