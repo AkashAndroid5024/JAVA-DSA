@@ -21,6 +21,7 @@ public class largest_of_3 {
          {
             System.out.println(+c+" is the largest");
          }
+         sc.close();
     }
     
 }
