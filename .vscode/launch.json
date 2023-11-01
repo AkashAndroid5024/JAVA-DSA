@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sum_of_n_natural_numbers",
+            "request": "launch",
+            "mainClass": "sum_of_n_natural_numbers",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "square_pattern",
             "request": "launch",
             "mainClass": "square_pattern",
