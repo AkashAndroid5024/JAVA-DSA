@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "while_loop",
+            "request": "launch",
+            "mainClass": "while_loop",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "arithmetic_calculator",
             "request": "launch",
             "mainClass": "arithmetic_calculator",
