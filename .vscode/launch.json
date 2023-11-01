@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "break_use",
+            "request": "launch",
+            "mainClass": "break_use",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "continue_use",
             "request": "launch",
             "mainClass": "continue_use",
