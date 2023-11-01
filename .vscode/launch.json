@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "square_pattern",
+            "request": "launch",
+            "mainClass": "square_pattern",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "while_loop",
             "request": "launch",
             "mainClass": "while_loop",
