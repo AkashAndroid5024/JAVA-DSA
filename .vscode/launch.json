@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern_triangle",
+            "request": "launch",
+            "mainClass": "pattern_triangle",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "break_use",
             "request": "launch",
             "mainClass": "break_use",
