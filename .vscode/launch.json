@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "call_by_value",
+            "request": "launch",
+            "mainClass": "call_by_value",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "binomial_coefficient",
             "request": "launch",
             "mainClass": "binomial_coefficient",
