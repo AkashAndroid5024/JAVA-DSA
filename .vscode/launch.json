@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "product_of_two_numbers",
             "request": "launch",
             "mainClass": "product_of_two_numbers",
