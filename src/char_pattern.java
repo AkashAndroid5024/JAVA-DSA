@@ -6,6 +6,7 @@
         K L M N O
         P Q R S T U
  */
+// Use of nested Loop
 public class char_pattern {
     public static void main(String[] args) {
         char ch='A';
