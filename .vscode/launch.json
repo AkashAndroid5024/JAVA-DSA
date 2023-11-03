@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dec_to_bin",
+            "request": "launch",
+            "mainClass": "dec_to_bin",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "bin_to_dec",
             "request": "launch",
             "mainClass": "bin_to_dec",
