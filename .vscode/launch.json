@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prime_number",
+            "request": "launch",
+            "mainClass": "prime_number",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "function_overloading",
             "request": "launch",
             "mainClass": "function_overloading",
