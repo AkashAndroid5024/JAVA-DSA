@@ -9,9 +9,8 @@
 1 2 3 4
 1 2 3
 1 2
-1
-
-                       */
+1 
+      */
 public class inverted_half_pyramid {
     public static void main(String[] args) {
         
