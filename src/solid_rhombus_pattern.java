@@ -34,6 +34,7 @@ public class solid_rhombus_pattern {
                 }
                 System.out.println();
             }
+            sc.close();
     
 }
 }
