@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hollow_rhombus",
+            "request": "launch",
+            "mainClass": "hollow_rhombus",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "solid_rhombus_pattern",
             "request": "launch",
             "mainClass": "solid_rhombus_pattern",
