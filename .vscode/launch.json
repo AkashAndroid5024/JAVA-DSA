@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "floyds_triangle",
+            "request": "launch",
+            "mainClass": "floyds_triangle",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "inverted_half_pyramid",
             "request": "launch",
             "mainClass": "inverted_half_pyramid",
