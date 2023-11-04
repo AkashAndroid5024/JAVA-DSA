@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "zero_and_one_pattern",
+            "request": "launch",
+            "mainClass": "zero_and_one_pattern",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "floyds_triangle",
             "request": "launch",
             "mainClass": "floyds_triangle",
