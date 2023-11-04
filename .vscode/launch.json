@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "solid_rhombus_pattern",
+            "request": "launch",
+            "mainClass": "solid_rhombus_pattern",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "butterfly_pattern",
             "request": "launch",
             "mainClass": "butterfly_pattern",
