@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inverted_rotated_half_pyramid",
+            "request": "launch",
+            "mainClass": "inverted_rotated_half_pyramid",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "hollow_rectangle",
             "request": "launch",
             "mainClass": "hollow_rectangle",
