@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pairs_in_an_array",
+            "request": "launch",
+            "mainClass": "pairs_in_an_array",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "reverse_an_array",
             "request": "launch",
             "mainClass": "reverse_an_array",
