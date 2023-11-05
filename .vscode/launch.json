@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palindromic_pattern",
+            "request": "launch",
+            "mainClass": "palindromic_pattern",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "number_pyramid",
             "request": "launch",
             "mainClass": "number_pyramid",
