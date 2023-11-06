@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "print_all_subarrays",
+            "request": "launch",
+            "mainClass": "print_all_subarrays",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "pairs_in_an_array",
             "request": "launch",
             "mainClass": "pairs_in_an_array",
