@@ -28,6 +28,7 @@ public class print_all_subarrays
         {
             arr[i]=sc.nextInt();
         }
+        sc.close();
         for(int i=0;i<n;i++)
         {
             
