@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "trapped_rainwater",
+            "request": "launch",
+            "mainClass": "trapped_rainwater",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "kadanes_algorithm",
             "request": "launch",
             "mainClass": "kadanes_algorithm",
