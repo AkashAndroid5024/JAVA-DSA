@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "buy_and_sell_stocks",
+            "request": "launch",
+            "mainClass": "buy_and_sell_stocks",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "hello",
             "request": "launch",
             "mainClass": "hello",
