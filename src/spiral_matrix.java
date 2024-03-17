@@ -42,10 +42,18 @@ public class spiral_matrix {
             }
             for(int x=endcol-1;x>=startcol;x--)
             {
+                if(startrow==endrow)
+                {
+                    break;
+                }
                 System.out.print(a[endrow][x]+" ");
             }
             for(int y=endrow-1;y>=startrow+1;y--)
             {
+                if(startcol==endcol)
+                {
+                    break;
+                }
                 System.out.print(a[y][startcol]+" ");
 
             }
