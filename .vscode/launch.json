@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "spiral_matrix",
+            "request": "launch",
+            "mainClass": "spiral_matrix",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "counting_sort",
             "request": "launch",
             "mainClass": "counting_sort",
