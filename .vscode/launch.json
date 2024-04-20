@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "shortest_path",
+            "request": "launch",
+            "mainClass": "shortest_path",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "palindrome_string",
             "request": "launch",
             "mainClass": "palindrome_string",
