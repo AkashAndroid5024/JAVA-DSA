@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "first_letter_uppercase",
+            "request": "launch",
+            "mainClass": "first_letter_uppercase",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "string_compression",
             "request": "launch",
             "mainClass": "string_compression",
