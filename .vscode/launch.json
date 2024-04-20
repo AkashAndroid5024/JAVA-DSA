@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palindrome_string",
+            "request": "launch",
+            "mainClass": "palindrome_string",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "staircase_search_in_matrix",
             "request": "launch",
             "mainClass": "staircase_search_in_matrix",
