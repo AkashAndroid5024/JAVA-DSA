@@ -22,32 +22,32 @@ public class bit_manipulation {
        
 
     }
-    public static void Band(int a, int b)
+    public static void Band(int a, int b) // Binary AND
     {
         System.out.println(a&b);
     }
-    public static void Bor(int a, int b)
+    public static void Bor(int a, int b) // Binary OR
     {
         System.out.println(a|b);
 
     }
-    public static void Bxor(int a, int b)
+    public static void Bxor(int a, int b) // Binary XOR
     {
         System.out.println(a^b);
     }
-    public static void BonesCompliment(int a)
+    public static void BonesCompliment(int a) // Binary one's Compliment
     {
         System.out.println(~a);
     }
-    public static void leftshift(int x, int y)
+    public static void leftshift(int x, int y) //Binary Left Shift
     {
         System.out.println(x<<y);
     }
-    public static void rightshift(int x,int y)
+    public static void rightshift(int x,int y) // Binary Right Shift
     {
         System.out.println(x>>y);
     }
-    public static void no_is_even_or_odd(int a)
+    public static void no_is_even_or_odd(int a) // To check whether a number is even or odd
     {
         if((a&1)==1)
         {
