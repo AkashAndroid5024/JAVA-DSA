@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion_nth_fibonacci",
+            "request": "launch",
+            "mainClass": "recursion_nth_fibonacci",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "recursion_factorial",
             "request": "launch",
             "mainClass": "recursion_factorial",
