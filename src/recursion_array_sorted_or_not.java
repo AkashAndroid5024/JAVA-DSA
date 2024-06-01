@@ -2,7 +2,9 @@ public class recursion_array_sorted_or_not {
     public static void main(String[] args) {
         
             int a[]={1,2,3,4,5,6,7,8,9,10};
-            System.out.println(issorted(a,1));
+            int b[]={1,2,3,4,5,6,7,8,91,10};
+            System.out.println(issorted(a,0));
+            System.out.println(issorted(b, 0));
 
         }
         public static boolean issorted(int a[],int i)
