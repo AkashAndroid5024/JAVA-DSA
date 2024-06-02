@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion_last_occurence",
+            "request": "launch",
+            "mainClass": "recursion_last_occurence",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
+            "name": "recursion_first_occurence",
+            "request": "launch",
+            "mainClass": "recursion_first_occurence",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "recursion_array_sorted_or_not",
             "request": "launch",
             "mainClass": "recursion_array_sorted_or_not",
