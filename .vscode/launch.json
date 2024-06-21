@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion_friends_pairing_problem",
+            "request": "launch",
+            "mainClass": "recursion_friends_pairing_problem",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "recursion_remove_duplicate_in_a_string",
             "request": "launch",
             "mainClass": "recursion_remove_duplicate_in_a_string",
