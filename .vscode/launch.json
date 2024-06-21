@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion_tiling_problem",
+            "request": "launch",
+            "mainClass": "recursion_tiling_problem",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "recursion_exponent",
             "request": "launch",
             "mainClass": "recursion_exponent",
