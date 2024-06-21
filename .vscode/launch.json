@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion_remove_duplicate_in_a_string",
+            "request": "launch",
+            "mainClass": "recursion_remove_duplicate_in_a_string",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "recursion_tiling_problem",
             "request": "launch",
             "mainClass": "recursion_tiling_problem",
