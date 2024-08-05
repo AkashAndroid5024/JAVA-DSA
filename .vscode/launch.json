@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "update_array_while_returning",
+            "request": "launch",
+            "mainClass": "update_array_while_returning",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "search_in_rotated_sorted_array",
             "request": "launch",
             "mainClass": "search_in_rotated_sorted_array",
