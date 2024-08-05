@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "all_permutations_of_a_given_string",
+            "request": "launch",
+            "mainClass": "all_permutations_of_a_given_string",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "backtracking_print_all_subsets_of_given_string",
             "request": "launch",
             "mainClass": "backtracking_print_all_subsets_of_given_string",
