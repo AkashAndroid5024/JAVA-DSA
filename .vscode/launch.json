@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacci_2",
+            "request": "launch",
+            "mainClass": "fibonacci_2",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "n_Queens_Problem",
             "request": "launch",
             "mainClass": "n_Queens_Problem",
