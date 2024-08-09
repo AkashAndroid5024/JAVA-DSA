@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "n_Queens_Problem",
+            "request": "launch",
+            "mainClass": "n_Queens_Problem",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "all_permutations_of_a_given_string",
             "request": "launch",
             "mainClass": "all_permutations_of_a_given_string",
