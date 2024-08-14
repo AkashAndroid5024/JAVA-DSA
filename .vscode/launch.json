@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sudoku_solver_backtraking",
+            "request": "launch",
+            "mainClass": "sudoku_solver_backtraking",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
+            "name": "backtracking_grid_ways",
+            "request": "launch",
+            "mainClass": "backtracking_grid_ways",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "fibonacci_2",
             "request": "launch",
             "mainClass": "fibonacci_2",
