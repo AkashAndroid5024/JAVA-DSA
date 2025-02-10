@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "sudoku_solver_backtraking",
             "request": "launch",
             "mainClass": "sudoku_solver_backtraking",
