@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bubble_sort_optimized",
+            "request": "launch",
+            "mainClass": "bubble_sort_optimized",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
