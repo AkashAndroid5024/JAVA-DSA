@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arraylist",
+            "request": "launch",
+            "mainClass": "arraylist",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "bubble_sort_optimized",
             "request": "launch",
             "mainClass": "bubble_sort_optimized",
