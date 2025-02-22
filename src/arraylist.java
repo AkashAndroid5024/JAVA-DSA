@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-
+import java.util.Scanner;
 public class arraylist {
     public static void main(String args[])
     {
@@ -28,7 +28,7 @@ public class arraylist {
         System.out.println(a.size());
         System.out.println(a.contains(3));
         System.out.println(a.indexOf(3));
-        System.out.println(a.isEmpty());
+        System.out.println(a.isEmpty()); 
         a.clear();
         System.out.println(a.isEmpty());
         a.add(1);
@@ -65,6 +65,8 @@ public class arraylist {
         System.out.println("After sorting in descending order:");
         Collections.sort(a,Collections.reverseOrder());
         System.out.println(a);
+        multidimension_arraylist();
+        
 
 
 
@@ -95,6 +97,29 @@ public class arraylist {
         int temp=a.get(id1);
         a.set(id1,a.get(id2));
         a.set(id2, temp);
+
+    }
+    public static void multidimension_arraylist()
+    {
+        Scanner sc=new Scanner(System.in);
+        ArrayList<ArrayList<Integer>> arr=new ArrayList<>();
+        for(int i=0;i<3;i++)
+        {
+            arr.add(new ArrayList<Integer>());
+            for(int j=0;j<3;j++)
+            {
+                arr.get(i).add(sc.nextInt());
+            }
+        }
+        for(int i=0;i<3;i++)
+        {
+            for(int j=0;j<3;j++)
+            {
+                System.out.print(arr.get(i).get(j)+" ");
+            }
+            System.out.println();
+        }
+        
 
     }
 
