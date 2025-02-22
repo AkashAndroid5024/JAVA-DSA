@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pairSum_ArrayList",
+            "request": "launch",
+            "mainClass": "pairSum_ArrayList",
+            "projectName": "JAVA DSA_b56d8a0f"
+        },
+        {
+            "type": "java",
             "name": "contains_most_water_ArrayList",
             "request": "launch",
             "mainClass": "contains_most_water_ArrayList",
